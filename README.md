@@ -22,7 +22,7 @@ Welcome to **Wraparound Snake Game**, a twist on the classic Snake game where th
 
 ## How to Play
 
-1. **Start the Game**: Open `index.html` in your browser.
+1. **Start the Game**: Open `snakewebgame.html` in your browser.
 2. **Control the Snake**: Use the arrow keys to move the snake.
 3. **Collect Food**: Guide the snake to the food to grow longer.
 4. **Wraparound Feature**: Move through the edges of the map to reappear on the opposite side.
